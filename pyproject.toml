@@ -36,7 +36,7 @@ dependencies = [
     "tqdm",
     "datasets>=2.14.6,<3.0.0",
     "requests",
-    "optuna",
+    "optuna~=4.1.0",
     "pydantic~=2.0",
     "jinja2",
     "magicattr~=0.1.6",
